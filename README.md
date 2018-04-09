@@ -6,9 +6,11 @@ You can create project and its tasks to track and manage.
 
 ```
 yarn install
+```
+Start server on localhost:8080
 
+```
 yarn serve
-
 ```
 
 ## Built With
